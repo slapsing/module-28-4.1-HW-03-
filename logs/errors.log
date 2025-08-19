@@ -1,0 +1,76 @@
+2025-08-19 18:57:02,967 [ERROR] Ошибка в django.request (деление на ноль). (C:\Users\kampe\PycharmProjects\DjangoProjectNewsPortal\logger\management\commands\test_log.py)
+Traceback (most recent call last):
+  File "C:\Users\kampe\PycharmProjects\DjangoProjectNewsPortal\logger\management\commands\test_log.py", line 23, in handle
+    1 / 0
+    ~~^~~
+ZeroDivisionError: division by zero
+2025-08-19 18:57:02,968 [ERROR] Ошибка в django.server (деление на ноль). (C:\Users\kampe\PycharmProjects\DjangoProjectNewsPortal\logger\management\commands\test_log.py)
+Traceback (most recent call last):
+  File "C:\Users\kampe\PycharmProjects\DjangoProjectNewsPortal\logger\management\commands\test_log.py", line 23, in handle
+    1 / 0
+    ~~^~~
+ZeroDivisionError: division by zero
+2025-08-19 18:57:02,968 [ERROR] Ошибка в django.template (деление на ноль). (C:\Users\kampe\PycharmProjects\DjangoProjectNewsPortal\logger\management\commands\test_log.py)
+Traceback (most recent call last):
+  File "C:\Users\kampe\PycharmProjects\DjangoProjectNewsPortal\logger\management\commands\test_log.py", line 23, in handle
+    1 / 0
+    ~~^~~
+ZeroDivisionError: division by zero
+2025-08-19 18:57:02,969 [ERROR] Ошибка в django.db.backends (деление на ноль). (C:\Users\kampe\PycharmProjects\DjangoProjectNewsPortal\logger\management\commands\test_log.py)
+Traceback (most recent call last):
+  File "C:\Users\kampe\PycharmProjects\DjangoProjectNewsPortal\logger\management\commands\test_log.py", line 23, in handle
+    1 / 0
+    ~~^~~
+ZeroDivisionError: division by zero
+2025-08-19 18:58:50,827 [ERROR] Ошибка в django.request (деление на ноль). (C:\Users\kampe\PycharmProjects\DjangoProjectNewsPortal\logger\management\commands\test_log.py)
+Traceback (most recent call last):
+  File "C:\Users\kampe\PycharmProjects\DjangoProjectNewsPortal\logger\management\commands\test_log.py", line 23, in handle
+    1 / 0
+    ~~^~~
+ZeroDivisionError: division by zero
+2025-08-19 18:58:51,634 [ERROR] Ошибка в django.server (деление на ноль). (C:\Users\kampe\PycharmProjects\DjangoProjectNewsPortal\logger\management\commands\test_log.py)
+Traceback (most recent call last):
+  File "C:\Users\kampe\PycharmProjects\DjangoProjectNewsPortal\logger\management\commands\test_log.py", line 23, in handle
+    1 / 0
+    ~~^~~
+ZeroDivisionError: division by zero
+2025-08-19 18:58:52,247 [ERROR] Ошибка в django.template (деление на ноль). (C:\Users\kampe\PycharmProjects\DjangoProjectNewsPortal\logger\management\commands\test_log.py)
+Traceback (most recent call last):
+  File "C:\Users\kampe\PycharmProjects\DjangoProjectNewsPortal\logger\management\commands\test_log.py", line 23, in handle
+    1 / 0
+    ~~^~~
+ZeroDivisionError: division by zero
+2025-08-19 18:58:52,247 [ERROR] Ошибка в django.db.backends (деление на ноль). (C:\Users\kampe\PycharmProjects\DjangoProjectNewsPortal\logger\management\commands\test_log.py)
+Traceback (most recent call last):
+  File "C:\Users\kampe\PycharmProjects\DjangoProjectNewsPortal\logger\management\commands\test_log.py", line 23, in handle
+    1 / 0
+    ~~^~~
+ZeroDivisionError: division by zero
+2025-08-19 19:06:42,039 [ERROR] Ошибка в django.request (деление на ноль). (C:\Users\kampe\PycharmProjects\DjangoProjectNewsPortal\logger\management\commands\test_log.py)
+(<class 'ZeroDivisionError'>, ZeroDivisionError('division by zero'), <traceback object at 0x000001FEEF1D5280>)
+Traceback (most recent call last):
+  File "C:\Users\kampe\PycharmProjects\DjangoProjectNewsPortal\logger\management\commands\test_log.py", line 23, in handle
+    1 / 0
+    ~~^~~
+ZeroDivisionError: division by zero
+2025-08-19 19:06:42,039 [ERROR] Ошибка в django.server (деление на ноль). (C:\Users\kampe\PycharmProjects\DjangoProjectNewsPortal\logger\management\commands\test_log.py)
+(<class 'ZeroDivisionError'>, ZeroDivisionError('division by zero'), <traceback object at 0x000001FEEF1D5280>)
+Traceback (most recent call last):
+  File "C:\Users\kampe\PycharmProjects\DjangoProjectNewsPortal\logger\management\commands\test_log.py", line 23, in handle
+    1 / 0
+    ~~^~~
+ZeroDivisionError: division by zero
+2025-08-19 19:06:42,040 [ERROR] Ошибка в django.template (деление на ноль). (C:\Users\kampe\PycharmProjects\DjangoProjectNewsPortal\logger\management\commands\test_log.py)
+(<class 'ZeroDivisionError'>, ZeroDivisionError('division by zero'), <traceback object at 0x000001FEEF1D5280>)
+Traceback (most recent call last):
+  File "C:\Users\kampe\PycharmProjects\DjangoProjectNewsPortal\logger\management\commands\test_log.py", line 23, in handle
+    1 / 0
+    ~~^~~
+ZeroDivisionError: division by zero
+2025-08-19 19:06:42,040 [ERROR] Ошибка в django.db.backends (деление на ноль). (C:\Users\kampe\PycharmProjects\DjangoProjectNewsPortal\logger\management\commands\test_log.py)
+(<class 'ZeroDivisionError'>, ZeroDivisionError('division by zero'), <traceback object at 0x000001FEEF1D5280>)
+Traceback (most recent call last):
+  File "C:\Users\kampe\PycharmProjects\DjangoProjectNewsPortal\logger\management\commands\test_log.py", line 23, in handle
+    1 / 0
+    ~~^~~
+ZeroDivisionError: division by zero
